@@ -14,6 +14,11 @@ This is LINE Login SDK for develop LINE Login with Golang.
 
 ## Requirements
 * Go 1.12+
+```
+go get github.com/dgrijalva/jwt-go
+# or
+dep ensure
+```
 
 ## Installation
 ```sh
