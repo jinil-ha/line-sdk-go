@@ -31,4 +31,4 @@ Feel free to check [issues page](https://github.com/jinil-ha/line-sdk-go/issues)
 
 ## 📝 License
 
-`line-sdk-go` is available under the [Coffeeware](https://github.com/jinil-ha/line-sdk-go/LICENSE.md) license.
+`line-sdk-go` is available under the [Coffeeware](https://github.com/jinil-ha/line-sdk-go/blob/master/LICENSE.md) license.
