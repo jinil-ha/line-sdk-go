@@ -8,12 +8,7 @@ NEVER USE IT WITHOUT MODIFICATION FOR YOUR PROJECT.
 ### 1. Get your channel id & channel secret for LINE login
 * Open `https://developers.line.biz`
 * Create channel, and get channel id & secret
-
-![LINE Channel Info](3.png)
-
 * set redirect uri
-
-![Redirect URI](4.png)
 
 ### 2. Export environment variable
 ```
