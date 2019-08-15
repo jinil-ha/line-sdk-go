@@ -1,6 +1,7 @@
 # LINE Login SDK for Golang
-[![Go Report Card](https://goreportcard.com/badge/github.com/jinil-ha/line-sdk-go)](https://goreportcard.com/report/github.com/jinil-ha/line-sdk-go)
 [![GoDoc](https://img.shields.io/badge/go-doc-green)](https://godoc.org/github.com/jinil-ha/line-sdk-go)
+[![build](https://api.travis-ci.com/jinil-ha/line-sdk-go.svg?branch=master)](https://travis-ci.com/jinil-ha/line-sdk-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/jinil-ha/line-sdk-go)](https://goreportcard.com/report/github.com/jinil-ha/line-sdk-go)
 [![license](https://img.shields.io/badge/license-coffee-blue)](https://github.com/jinil-ha/line-sdk-go/blob/master/LICENSE.md)
 
 ## Introduction
