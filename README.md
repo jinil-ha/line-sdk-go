@@ -14,7 +14,7 @@ This is LINE Login SDK for develop LINE Login with Golang.
 * Reference : https://developers.line.biz/ja/reference/social-api/
 
 ## Requirements
-* Go 1.12+
+* Go 1.10+
 ```
 go get github.com/dgrijalva/jwt-go
 # or
